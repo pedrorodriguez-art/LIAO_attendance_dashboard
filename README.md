@@ -1,6 +1,7 @@
 # LIAO Attendance Dashboard
 
-![Dashboard Preview][([https://via.placeholder.com/1200x800/2563EB/FFFFFF?text=LIAO+Dashboard](https://imgur.com/a/YCigON3))]
+<img width="1481" height="639" alt="image" src="https://github.com/user-attachments/assets/cbe5329c-e03c-4a52-aa49-db324f36a7f1" />
+
 ## Description
 Clean, member-focused **Looker Studio** dashboard for tracking meeting attendance metrics in the **LIAO** student league. Each member gets personalized self-service access through an **email filter**.
 
@@ -18,7 +19,25 @@ Clean, member-focused **Looker Studio** dashboard for tracking meeting attendanc
 4. Check specific details in bottom table
 
 ## Data Structure
-Meeting Date | Type | Total Time (min) | Name | Stay Time | % | Status | Justification | ID
+
+## Description
+Clean, member-focused **Looker Studio** dashboard for tracking meeting attendance metrics in the **LIAO** student league. Each member gets personalized self-service access through an **email filter**.
+
+## Key Features
+- **Personalized KPIs**: Overall presence %, assigned meetings, total attendance time, total absences
+- **Trend charts**: Presence and time per month (multi-year support)
+- **Distribution visuals**: Presence vs absence % and meeting type breakdown
+- **Detailed table**: Full history with date, meeting type, duration, status, and justifications
+- **Email filter**: Members access only their own data via simple dropdown filter
+
+## How to use
+1. Select your **email** in the top filter
+2. View main KPIs in cards
+3. Track monthly evolution in charts
+4. Check specific details in bottom table
+
+## Data Structure
+Meeting Date - Type - Total Time (min) - Name - Stay Time - % - Status - Justification - ID
 
 
 ## Tech Stack
