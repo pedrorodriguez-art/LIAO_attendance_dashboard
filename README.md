@@ -1,7 +1,6 @@
 # LIAO Attendance Dashboard
 
-![Dashboard Preview](https://via.placeholder.com/1200x800/2563EB/FFFFFF?text=LIAO+Dashboard)
-
+![Dashboard Preview][([https://via.placeholder.com/1200x800/2563EB/FFFFFF?text=LIAO+Dashboard](https://imgur.com/a/YCigON3))]
 ## Description
 Clean, member-focused **Looker Studio** dashboard for tracking meeting attendance metrics in the **LIAO** student league. Each member gets personalized self-service access through an **email filter**.
 
